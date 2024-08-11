@@ -13,7 +13,7 @@ This project is a web application that provides random cat images to the user. A
 
 - HTML5
 - CSS3
--JavaScript
+- JavaScript
 - Bootstrap
 - [The Cat API](https://thecatapi.com/)
 
